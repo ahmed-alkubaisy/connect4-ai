@@ -1,8 +1,8 @@
 # Connect-4: A Comparative Study of AI Approaches
 
-**Author:** Ahmed Wajdi AlKubaisy
-**Supervisor:** Abdul Wahid
-**Programme:** BSc Artificial Intelligence and Computer Science, University of Birmingham
+**Author:** Ahmed Wajdi AlKubaisy<br>
+**Supervisor:** Abdul Wahid<br>
+**Programme:** BSc Artificial Intelligence and Computer Science, University of Birmingham<br>
 **Year:** 2025-26
 
 ## Overview
