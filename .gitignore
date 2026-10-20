@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*.Zone.Identifier
+data/game_*.csv
+.DS_Store
